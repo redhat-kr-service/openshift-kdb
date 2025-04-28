@@ -3,6 +3,7 @@ title: "Documentation"
 linkTitle: "Documentation"
 weight: 1
 ---
+test
 
 Welcome to the OpenShift KDB documentation. This guide will help you understand and work with OpenShift KDB effectively.
 
