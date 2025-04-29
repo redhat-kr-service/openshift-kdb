@@ -1,5 +1,5 @@
 ---
-title: "openshift-second-query"
+title: "고객 질의사항 참고 자료"
 linkTitle: "openshift-second-query"
 weight: 2
 ---
